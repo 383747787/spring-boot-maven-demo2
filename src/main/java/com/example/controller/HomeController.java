@@ -12,6 +12,6 @@ public class HomeController {
 
     @RequestMapping("/")
     public String home() {
-        return "Das Boot3, reporting for duty!";
+        return "Das Boot4, reporting for duty!";
     }
 }
