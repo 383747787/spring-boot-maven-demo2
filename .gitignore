@@ -29,5 +29,5 @@ nbdist/
 target/
 log/
 
-*DS_Store
-*.class
+*/.DS_Store
+*/*.class
